@@ -1,9 +1,11 @@
 # green-wolf
 
-Shopping List
+# Shopping List
 * Eggs
 * Cheese
-'''
-  if(true):
-    do this
-'''    
+
+```
+if (cool):
+  print("true")
+```  
+    
