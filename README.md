@@ -1,5 +1,5 @@
 # Hello There
-### Welcomet to my Website
+### Welcome to my Website
 Mother-
 
 Here are the things which you could buy me for college:
